@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Alvin Alvaro - Full stack Web Developer
-
+![](https://komarev.com/ghpvc/?username=albeng&style=flat-square)
 
 i am a full stack web developer 
 
