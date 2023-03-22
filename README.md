@@ -10,3 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: alvinalvaro146@gmail.com
 - ⚡ Fun fact: I love playing online games
 
+[![albeng GitHub stats](https://github-readme-stats.vercel.app/api?username=albeng)](https://github.com/albeng/github-readme-stats)
